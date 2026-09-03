@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA02_Banteng_Jawa
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA02
+  commonName: Banteng Jawa
+  latinName: Bos javanicus
+  category: 0
+  iucnStatus: 1
+  daerahAsal: Jawa dan Bali (Taman Nasional Ujung Kulon & Baluran)
+  tingkatBahaya: Cukup Berbahaya (bisa menyeruduk agresif jika merasa terancam)
+  tindakanSaatBertemu: Jangan mendekati kawanan. Hindari gerakan mengejutkan dan
+    cari perlindungan di tempat tinggi.
+  description: Sapi liar berotot kuat dengan ciri khas bercak putih pada kaki menyerupai
+    kaos kaki dan pantat.
+  habitat: Hutan musim dataran rendah dan padang sabana.
+  diet: Herbivora (Rumput & Tunas Daun)
+  funFact: 'Status: Terancam Punah (perburuan liar & kawin silang sapi domestik)'
+  modelPrefab: {fileID: 6929340022775804109, guid: 7ff98ae3cfe29f84da121f9d9d6498e3, type: 3}
+  animalSound: {fileID: 8300000, guid: e9a57cd03c8e75546b2f27ffc54d1e44, type: 3}
+  thumbnail: {fileID: 21300000, guid: c4220abea3397c84a97e3742343e7ebe, type: 3}
+  defaultScale: {x: 0.42, y: 0.42, z: 0.42}
+  rotationSpeed: 200

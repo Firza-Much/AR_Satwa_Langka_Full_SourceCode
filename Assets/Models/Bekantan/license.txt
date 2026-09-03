@@ -1,0 +1,11 @@
+Model Information:
+* title:	Proboscis Monkey
+* source:	https://sketchfab.com/3d-models/proboscis-monkey-58e9f1d96e9b418c8439c5622aac33c3
+* author:	mujahidjohar (https://sketchfab.com/mujahidjohar)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Proboscis Monkey" (https://sketchfab.com/3d-models/proboscis-monkey-58e9f1d96e9b418c8439c5622aac33c3) by mujahidjohar (https://sketchfab.com/mujahidjohar) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

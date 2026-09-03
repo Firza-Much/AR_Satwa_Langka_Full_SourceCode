@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA01_Gajah_Sumatra
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA01
+  commonName: Gajah Sumatra
+  latinName: Elephas maximus sumatranus
+  category: 2
+  iucnStatus: 0
+  daerahAsal: Sumatera
+  tingkatBahaya: Cukup Berbahaya (tubuh masif, insting melindungi kelompok)
+  tindakanSaatBertemu: Jaga jarak minimal 20 meter. Jangan membuat gerakan tiba-tiba
+    atau suara bising. Perlahan menjauh ke tempat aman.
+  description: Spesies gajah Asia terkecil dengan peran penting sebagai perekayasa
+    ekosistem penyebar biji pohon hutan.
+  habitat: Hutan hujan tropis dataran rendah dan rawa gambut.
+  diet: Herbivora (Rumput, Daun, Ranting)
+  funFact: 'Status: Kritis (deforestasi & konflik lahan)'
+  modelPrefab: {fileID: 6213624059525162328, guid: 357b5fa882702cc4a943ed6ec522e0c6, type: 3}
+  animalSound: {fileID: 8300000, guid: d0126eb98f0f62a46b481c942a82167a, type: 3}
+  thumbnail: {fileID: 21300000, guid: 2d25a141c4a30004babc08fd65bb19ab, type: 3}
+  defaultScale: {x: 0.4, y: 0.4, z: 0.4}
+  rotationSpeed: 200

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA04_Babirusa
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA04
+  commonName: Babirusa
+  latinName: Babyrousa babyrussa
+  category: 2
+  iucnStatus: 2
+  daerahAsal: Sulawesi dan Kepulauan Maluku
+  tingkatBahaya: Sedang (bisa menyerang dengan taring jika terpojok)
+  tindakanSaatBertemu: Amati dari jarak aman tanpa memprovokasi atau menghalangi
+    jalurnya ke sumber air.
+  description: Satwa purba unik di mana taring atas pejantan tumbuh menembus kulit
+    moncong dan melengkung ke dahi.
+  habitat: Hutan hujan tropis lebat dekat sungai dan kolam lumpur.
+  diet: Omnivora (Buah Hutan, Jamur, Daun, Serangga)
+  funFact: 'Status: Rentan (perburuan & alih fungsi hutan)'
+  modelPrefab: {fileID: 1961241496702088015, guid: e251bccc5ff73a441a53166cbc4e5078, type: 3}
+  animalSound: {fileID: 8300000, guid: a4da082641c226f46bdc54d073120cfa, type: 3}
+  thumbnail: {fileID: 21300000, guid: 763dac47386a6024eb22aa574e9da1ea, type: 3}
+  defaultScale: {x: 0.42, y: 0.42, z: 0.42}
+  rotationSpeed: 200

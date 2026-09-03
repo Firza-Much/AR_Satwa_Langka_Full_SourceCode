@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anoa Model
+* source:	https://sketchfab.com/3d-models/anoa-model-bd206c5f8583468d9082b5db41e5dc76
+* author:	Aditya Riyanto (https://sketchfab.com/KyoSaito)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anoa Model" (https://sketchfab.com/3d-models/anoa-model-bd206c5f8583468d9082b5db41e5dc76) by Aditya Riyanto (https://sketchfab.com/KyoSaito) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

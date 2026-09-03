@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leopard
+* source:	https://sketchfab.com/3d-models/leopard-0aa47cb5f29647c3964480ec9216468a
+* author:	hendrikReyneke (https://sketchfab.com/hendrikReyneke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leopard" (https://sketchfab.com/3d-models/leopard-0aa47cb5f29647c3964480ec9216468a) by hendrikReyneke (https://sketchfab.com/hendrikReyneke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eastern Box Turtle
+* source:	https://sketchfab.com/3d-models/eastern-box-turtle-a6cb1a3f3e2d4087af82c45c91db4135
+* author:	RISD Nature Lab (https://sketchfab.com/RISDNaturelab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eastern Box Turtle" (https://sketchfab.com/3d-models/eastern-box-turtle-a6cb1a3f3e2d4087af82c45c91db4135) by RISD Nature Lab (https://sketchfab.com/RISDNaturelab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

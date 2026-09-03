@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA03_Anoa
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA03
+  commonName: Anoa
+  latinName: Bubalus depressicornis
+  category: 2
+  iucnStatus: 1
+  daerahAsal: Sulawesi
+  tingkatBahaya: Sedang-Tinggi (sangat agresif didekati, tanduk runcing dan tajam)
+  tindakanSaatBertemu: Jauhkan diri perlahan, jangan membuat suara keras. Jangan
+    pernah mendekat untuk berfoto.
+  description: Mamalia endemik menyerupai kerbau kerdil yang hidup soliter, dengan
+    tanduk lurus meruncing ke belakang.
+  habitat: Hutan hujan tropis lebat dataran rendah hingga pegunungan.
+  diet: Herbivora (Tumbuhan Air, Paku-pakuan, Buah Jatuh)
+  funFact: 'Status: Terancam Punah (perburuan daging & penyempitan area hutan)'
+  modelPrefab: {fileID: 8261556696032398391, guid: 8d592c0ccaca12945af10d12a1abcfec, type: 3}
+  animalSound: {fileID: 8300000, guid: 3838931f84c8db94b8a81cfb832c06ad, type: 3}
+  thumbnail: {fileID: 21300000, guid: a811c462d40740a45ada201b98175738, type: 3}
+  defaultScale: {x: 0.42, y: 0.42, z: 0.42}
+  rotationSpeed: 200

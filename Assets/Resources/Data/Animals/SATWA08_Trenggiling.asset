@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA08_Trenggiling
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA08
+  commonName: Trenggiling
+  latinName: Manis javanica
+  category: 1
+  iucnStatus: 0
+  daerahAsal: Sumatera, Jawa, Kalimantan
+  tingkatBahaya: Tidak Berbahaya (tidak memiliki gigi, pertahanan menggulung)
+  tindakanSaatBertemu: Jangan disentuh atau diangkat. Biarkan ia lewat mencari makan
+    semut secara alami.
+  description: Mamalia unik tak bergigi yang tubuhnya dilindungi sisik keratin tebal
+    berlapis dan memiliki lidah super panjang lengket.
+  habitat: Hutan hujan tropis, perkebunan, dan hutan sekunder.
+  diet: Insektivora (Semut & Rayap)
+  funFact: 'Status: Kritis (perburuan masif untuk sisik keratin & daging ilegal)'
+  modelPrefab: {fileID: 4471338244603682878, guid: a535822fd700da04e8510ba1a1b06fd5, type: 3}
+  animalSound: {fileID: 8300000, guid: 574b45200c225ea40b6ff7d20846c7af, type: 3}
+  thumbnail: {fileID: 21300000, guid: 8d4a100022b13bc488d1623a28745922, type: 3}
+  defaultScale: {x: 0.45, y: 0.45, z: 0.45}
+  rotationSpeed: 200

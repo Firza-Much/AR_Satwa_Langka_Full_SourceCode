@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4e19c746fdb2764981dde71095fa2a8, type: 3}
+  m_Name: QuizDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.QuizDataSO
+  questions:
+  - questionText: Berdasarkan data satwa pada aplikasi, satwa manakah yang dijuluki
+      sebagai 'perekayasa ekosistem' karena peran vitalnya menyebarkan biji pohon
+      di hutan Sumatera?
+    questionImage: {fileID: 0}
+    options:
+    - Babirusa
+    - Gajah Sumatra
+    - Anoa
+    - Sigung
+    correctOptionIndex: 1
+    explanation: Gajah Sumatra (Elephas maximus sumatranus) berstatus Kritis dan
+      memiliki peran ekologis menyebarkan biji pohon hutan hujan tropis.
+  - questionText: Ciri fisik khas Banteng Jawa (Bos javanicus) yang membedakannya
+      dengan jenis sapi liar lainnya adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Bercak putih menyerupai kaos kaki pada kaki dan pantat
+    - Taring panjang mencuat ke atas dahi
+    - Tempurung lunak berkaki dayung
+    - Sisik tebal berkilauan
+    correctOptionIndex: 0
+    explanation: Banteng Jawa memiliki ciri khas bercak putih pada kaki bawah dan
+      pantatnya.
+  - questionText: Anoa (Bubalus depressicornis) merupakan kerbau terkecil di dunia
+      yang hidup soliter di hutan pegunungan pulau...
+    questionImage: {fileID: 0}
+    options:
+    - Pulau Jawa
+    - Pulau Sumatera
+    - Pulau Sulawesi
+    - Pulau Bali
+    correctOptionIndex: 2
+    explanation: Anoa adalah satwa endemik pulau Sulawesi yang memiliki tanduk lurus
+      meruncing ke belakang.
+  - questionText: Keunikan utama satwa purba Babirusa (Babyrousa babyrussa) jantan
+      terletak pada...
+    questionImage: {fileID: 0}
+    options:
+    - Sisik keratin tebal menggulung
+    - Taring atas menembus moncong dan melengkung ke arah dahi
+    - Leher panjang menyerupai ular
+    - Hidung besar menjuntai ke bawah
+    correctOptionIndex: 1
+    explanation: Taring atas Babirusa jantan menembus kulit moncong dan melengkung
+      ke arah dahi.
+  - questionText: Sensor khusus apa yang dimiliki Sanca Batik untuk mendeteksi mangsa
+      berdarah panas dalam kegelapan total?
+    questionImage: {fileID: 0}
+    options:
+    - Sensor getaran pada ekor
+    - Sensor lubang panas (heat pits) di sekitar bibirnya
+    - Penglihatan malam inframerah di matanya
+    - Pendengaran ultrasonik
+    correctOptionIndex: 1
+    explanation: Sanca Batik memiliki labial pit (sensor panas) di sekitar bibir
+      untuk mendeteksi suhu tubuh mangsa.
+  - questionText: Kura-Kura Moncong Babi (Carettochelys insculpta) yang hidup di
+      perairan Papua memiliki bentuk kaki menyerupai...
+    questionImage: {fileID: 0}
+    options:
+    - Cakar tajam untuk memanjat
+    - Dayung berselaput seperti penyu laut
+    - Kaki berselaput pendek biasa
+    - Kuku runcing penggali tanah
+    correctOptionIndex: 1
+    explanation: Kura-Kura Moncong Babi memiliki kaki dayung menyerupai penyu laut
+      untuk berenang lincah di air tawar.
+  - questionText: Kura-Kura Leher Ular Rote (Chelodina mccordi) memiliki kebiasaan
+      unik saat melipat lehernya, yaitu...
+    questionImage: {fileID: 0}
+    options:
+    - Menarik lehernya lurus ke dalam tempurung
+    - Melipat lehernya menyamping di bawah bibir tempurung
+    - Menggulung lehernya menjadi spiral
+    - Memanjangkan leher ke atas tempurung
+    correctOptionIndex: 1
+    explanation: Kura-kura pleurodira melipat lehernya menyamping horizontal di bawah
+      tempurung.
+  - questionText: Mekanisme pertahanan mutlak yang dilakukan oleh Trenggiling saat
+      merasa terancam predator adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Menyemburkan racun bisa mematikan
+    - Berlari cepat zig-zag
+    - Menggulung tubuhnya menjadi bola bersisik keras
+    - Memanjat pohon berduri
+    correctOptionIndex: 2
+    explanation: Trenggiling mempertahankan diri dengan menggulung tubuhnya membentuk
+      bola bersisik keratin tebal.
+  - questionText: Predator puncak di Pulau Jawa dengan corak roset tutul keemasan
+      atau varian kumbang hitam adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Macan Dahan
+    - Kucing Bakau
+    - Macan Tutul Jawa (Panthera pardus melas)
+    - Harimau Tasmania
+    correctOptionIndex: 2
+    explanation: Macan Tutul Jawa adalah satu-satunya kucing besar predator puncak
+      yang masih bertahan di hutan Jawa.
+  - questionText: Ciri khas paling mencolok dari Rusa Timor (Rusa timorensis) jantan
+      dewasa adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Memiliki taring panjang di bibirnya
+    - Tanduk kokoh bercabang tiga
+    - Kulit tubuh berbintik putih permanen
+    - Ekor panjang mirip kuda
+    correctOptionIndex: 1
+    explanation: Pejantan Rusa Timor memiliki tanduk bercabang tiga yang kokoh dan
+      berganti secara berkala.
+  - questionText: Apa mekanisme pertahanan diri utama satwa Sigung (Mydaus javanensis)
+      saat terdesak?
+    questionImage: {fileID: 0}
+    options:
+    - Menyemprotkan cairan berbau busuk menyengat dari kelenjar anusnya
+    - Mengeluarkan sengatan listrik
+    - Menggigit dengan racun
+    - Mengubah warna bulu menjadi hijau
+    correctOptionIndex: 0
+    explanation: Sigung menyemprotkan cairan kimia berbau sangat busuk dari kelenjar
+      analnya untuk mengusir musuh.
+  - questionText: Ciri fisik paling khas dari Bekantan (Nasalis larvatus) jantan
+      dewasa yang membedakannya dari primata lain adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Hidung berukuran besar menggantung
+    - Telinga yang sangat lebar
+    - Kantung pipi penyimpan makanan
+    - Tanduk kecil di kepala
+    correctOptionIndex: 0
+    explanation: Hidung besar menggantung pada Bekantan jantan berfungsi sebagai
+      resonator suara untuk memikat betina.
+  - questionText: Tindakan mitigasi paling aman jika kita bertemu dengan hewan predator
+      besar seperti Macan Tutul Jawa adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Berlari kencang membelakangi hewan
+    - Jangan panik, tatap matanya, mundur perlahan, dan buat postur tubuh terlihat
+      besar
+    - Tiarap dan pura-pura mati
+    - Melemparkan ranting pohon ke arahnya
+    correctOptionIndex: 1
+    explanation: Jangan lari membelakangi karena memicu insting berburu. Tatap matanya
+      dan perlahan mundur.
+  - questionText: Manakah dari satwa berikut yang termasuk mamalia pemakan semut
+      dan rayap tanpa memiliki gigi?
+    questionImage: {fileID: 0}
+    options:
+    - Babirusa
+    - Anoa
+    - Trenggiling
+    - Bekantan
+    correctOptionIndex: 2
+    explanation: Trenggiling tidak memiliki gigi dan menggunakan lidah berperekat
+      untuk menyantap semut/rayap.
+  - questionText: Habitat alami utama primata Bekantan di Kalimantan adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Hutan bakau (mangrove) dan rawa tepi sungai
+    - Padang sabana kering
+    - Puncak gunung bersalju
+    - Gurun pasir
+    correctOptionIndex: 0
+    explanation: Bekantan hidup di hutan mangrove dan rawa gambut pesisir Kalimantan.
+  - questionText: Mengapa kita dilarang membuat suara bising atau memprovokasi saat
+      menjumpai Anoa di alam liar?
+    questionImage: {fileID: 0}
+    options:
+    - Karena Anoa sangat agresif dan memiliki tanduk runcing yang berbahaya jika
+      terkejut
+    - Karena Anoa akan mengeluarkan gas beracun
+    - Karena Anoa dapat memanjat pohon
+    - Karena Anoa akan memanggil kawanan buas lainnya
+    correctOptionIndex: 0
+    explanation: Anoa dikenal memiliki temperamen yang mudah terkejut dan dapat menyeruduk
+      dengan tanduk runcingnya.
+  - questionText: Status konservasi IUCN untuk Gajah Sumatra saat ini adalah...
+    questionImage: {fileID: 0}
+    options:
+    - Kritis (Critically Endangered / CR)
+    - Risiko Rendah (Least Concern / LC)
+    - Punah di Alam Liar (Extinct in the Wild / EW)
+    - Hampir Terancam (Near Threatened / NT)
+    correctOptionIndex: 0
+    explanation: Gajah Sumatra berstatus Kritis (CR) akibat penyusutan habitat hutan
+      hujan dan fragmentasi populasi.
+  - questionText: Hewan nokturnal adalah sebutan bagi hewan yang...
+    questionImage: {fileID: 0}
+    options:
+    - Hanya hidup di dalam air
+    - Aktif mencari makan pada malam hari
+    - Hanya memakan tumbuhan
+    - Melakukan migrasi antar benua
+    correctOptionIndex: 1
+    explanation: Hewan nokturnal seperti Sigung dan Macan Tutul aktif berburu pada
+      malam hari.
+  - questionText: Satwa manakah yang dilindungi secara ketat di Taman Nasional Ujung
+      Kulon dan Taman Nasional Baluran?
+    questionImage: {fileID: 0}
+    options:
+    - Banteng Jawa
+    - Burung Unta
+    - Kucing Rumahan
+    - Pinguin
+    correctOptionIndex: 0
+    explanation: Banteng Jawa merupakan salah satu satwa prioritas perlindungan di
+      TN Ujung Kulon dan TN Baluran.
+  - questionText: Mengapa edukasi mengenai satwa langka penting dipelajari melalui
+      aplikasi AR ini?
+    questionImage: {fileID: 0}
+    options:
+    - Untuk meningkatkan kesadaran konservasi dan menjaga keanekaragaman hayati Indonesia
+    - Agar satwa langka dapat dipelihara di rumah secara bebas
+    - Untuk memperjualbelikan hewan langka secara online
+    - Untuk menangkap hewan langka di alam liar
+    correctOptionIndex: 0
+    explanation: Aplikasi AR Satwa Langka bertujuan meningkatkan kesadaran konservasi
+      dan pelestarian fauna nusantara.

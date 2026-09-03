@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background gradient hijau tropis -->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2ECC71"/>
+      <stop offset="100%" stop-color="#0E7A5A"/>
+    </radialGradient>
+    <radialGradient id="eleph" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#B0BEC5"/>
+      <stop offset="100%" stop-color="#546E7A"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="250" fill="url(#bg)"/>
+  
+  <!-- Daun-daun dekorasi -->
+  <ellipse cx="80" cy="420" rx="60" ry="30" fill="#27AE60" transform="rotate(-30 80 420)"/>
+  <ellipse cx="430" cy="400" rx="55" ry="28" fill="#27AE60" transform="rotate(30 430 400)"/>
+  <ellipse cx="100" cy="180" rx="45" ry="22" fill="#2ECC71" transform="rotate(-60 100 180)" opacity="0.7"/>
+  <ellipse cx="420" cy="160" rx="45" ry="22" fill="#2ECC71" transform="rotate(60 420 160)" opacity="0.7"/>
+  
+  <!-- Gajah - badan -->
+  <ellipse cx="256" cy="310" rx="110" ry="85" fill="url(#eleph)"/>
+  
+  <!-- Kepala gajah -->
+  <circle cx="256" cy="210" r="75" fill="#78909C"/>
+  
+  <!-- Telinga kiri -->
+  <ellipse cx="165" cy="215" rx="48" ry="58" fill="#607D8B" opacity="0.9"/>
+  <ellipse cx="170" cy="215" rx="32" ry="42" fill="#E91E63" opacity="0.4"/>
+  
+  <!-- Telinga kanan -->
+  <ellipse cx="347" cy="215" rx="48" ry="58" fill="#607D8B" opacity="0.9"/>
+  <ellipse cx="342" cy="215" rx="32" ry="42" fill="#E91E63" opacity="0.4"/>
+  
+  <!-- Belalai -->
+  <path d="M240 265 Q220 290 215 320 Q210 345 225 355 Q240 360 245 340 Q248 320 255 300 Q260 285 256 268Z" fill="#607D8B"/>
+  
+  <!-- Mata kiri -->
+  <circle cx="225" cy="200" r="12" fill="white"/>
+  <circle cx="228" cy="200" r="7" fill="#1A237E"/>
+  <circle cx="230" cy="198" r="3" fill="white"/>
+  
+  <!-- Mata kanan -->
+  <circle cx="287" cy="200" r="12" fill="white"/>
+  <circle cx="284" cy="200" r="7" fill="#1A237E"/>
+  <circle cx="286" cy="198" r="3" fill="white"/>
+  
+  <!-- Gading -->
+  <path d="M235 255 Q220 275 215 270 Q208 265 218 258Z" fill="#FFF9C4"/>
+  
+  <!-- Kaki -->
+  <rect x="175" y="375" width="45" height="60" rx="20" fill="#546E7A"/>
+  <rect x="230" y="380" width="45" height="55" rx="20" fill="#546E7A"/>
+  <rect x="285" y="380" width="45" height="55" rx="20" fill="#546E7A"/>
+  <rect x="340" y="375" width="45" height="60" rx="20" fill="#546E7A"/>
+  
+  <!-- AR scan lines -->
+  <rect x="85" y="85" width="40" height="5" rx="2" fill="white" opacity="0.8"/>
+  <rect x="85" y="85" width="5" height="40" rx="2" fill="white" opacity="0.8"/>
+  <rect x="387" y="85" width="40" height="5" rx="2" fill="white" opacity="0.8"/>
+  <rect x="422" y="85" width="5" height="40" rx="2" fill="white" opacity="0.8"/>
+  <rect x="85" y="422" width="40" height="5" rx="2" fill="white" opacity="0.8"/>
+  <rect x="85" y="387" width="5" height="40" rx="2" fill="white" opacity="0.8"/>
+  <rect x="387" y="422" width="40" height="5" rx="2" fill="white" opacity="0.8"/>
+  <rect x="422" y="387" width="5" height="40" rx="2" fill="white" opacity="0.8"/>
+  
+  <!-- Bintang AR kecil -->
+  <circle cx="380" cy="130" r="8" fill="#FFD700"/>
+  <circle cx="140" cy="140" r="6" fill="#FFD700" opacity="0.8"/>
+</svg>

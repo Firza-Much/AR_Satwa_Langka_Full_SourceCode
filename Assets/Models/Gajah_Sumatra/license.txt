@@ -1,0 +1,11 @@
+Model Information:
+* title:	gajah sumatra
+* source:	https://sketchfab.com/3d-models/gajah-sumatra-1649e07e7f184642a56bad240dfe2347
+* author:	pengembaraabadi (https://sketchfab.com/pengembaraabadi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gajah sumatra" (https://sketchfab.com/3d-models/gajah-sumatra-1649e07e7f184642a56bad240dfe2347) by pengembaraabadi (https://sketchfab.com/pengembaraabadi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

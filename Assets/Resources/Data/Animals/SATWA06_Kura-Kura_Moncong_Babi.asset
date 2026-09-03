@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d45dff5a87437747a589cb01c392613, type: 3}
+  m_Name: SATWA06_Kura-Kura_Moncong_Babi
+  m_EditorClassIdentifier: Assembly-CSharp::SatwaLangka.Data.AnimalDataSO
+  animalCode: SATWA06
+  commonName: Kura-Kura Moncong Babi
+  latinName: Carettochelys insculpta
+  category: 1
+  iucnStatus: 1
+  daerahAsal: Papua bagian selatan
+  tingkatBahaya: Tidak Berbahaya (sangat pemalu di dalam air)
+  tindakanSaatBertemu: Jangan menangkap atau mengambilnya dari sungai. Biarkan berenang
+    bebas di habitat aslinya.
+  description: Kura-kura air tawar unik dengan moncong mirip hidung babi dan kaki
+    berbentuk dayung seperti penyu laut.
+  habitat: Sungai air tawar berarus tenang, laguna, dan muara.
+  diet: Omnivora (Buah Pohon Tepi Air, Daun, Moluska, Krustasea)
+  funFact: 'Status: Terancam Punah (penyelundupan hewan peliharaan ilegal)'
+  modelPrefab: {fileID: 5973599875595852560, guid: 5479dbcf09c2995418bb3ee041bb9917, type: 3}
+  animalSound: {fileID: 8300000, guid: 5b45d7240ce40d34f87928e6748d15bb, type: 3}
+  thumbnail: {fileID: 21300000, guid: b54390a9f3126a84eb69e971551e8a13, type: 3}
+  defaultScale: {x: 0.45, y: 0.45, z: 0.45}
+  rotationSpeed: 200

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Charging Bull
+* source:	https://sketchfab.com/3d-models/charging-bull-3nXiIkAd3IlHVNc4hqw4VmaX3tK
+* author:	Zafio (https://sketchfab.com/zafio)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Charging Bull" (https://sketchfab.com/3d-models/charging-bull-3nXiIkAd3IlHVNc4hqw4VmaX3tK) by Zafio (https://sketchfab.com/zafio) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
